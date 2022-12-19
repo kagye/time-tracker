@@ -13,7 +13,7 @@
 <body>
   <h1>Very Simple Example Web Page</h1>
   <p>
-    This is a very simple example web page on a JSP. Changes made to show redeploy from Jenkins.
+    New changes to test pipeline deployment
   </p>
 </body>
 </html>
